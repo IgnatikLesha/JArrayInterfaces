@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JArrayInterfaces", "JArrayInterfaces\JArrayInterfaces.csproj", "{7E59C3DE-CD85-4CD5-8FC7-CE37F3D1DB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAInterfacesNUnitTests", "JAInterfacesNUnitTests\JAInterfacesNUnitTests.csproj", "{4190F3FF-E0B0-44CB-B0FD-D92635910789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E59C3DE-CD85-4CD5-8FC7-CE37F3D1DB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E59C3DE-CD85-4CD5-8FC7-CE37F3D1DB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E59C3DE-CD85-4CD5-8FC7-CE37F3D1DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E59C3DE-CD85-4CD5-8FC7-CE37F3D1DB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4190F3FF-E0B0-44CB-B0FD-D92635910789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4190F3FF-E0B0-44CB-B0FD-D92635910789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4190F3FF-E0B0-44CB-B0FD-D92635910789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4190F3FF-E0B0-44CB-B0FD-D92635910789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Projects\JArrayInterfaces\JArrayInterfaces\obj\Debug\JArrayInterfaces.csprojResolveAssemblyReference.cache
